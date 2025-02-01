@@ -1,0 +1,8 @@
+/home/andreas/projects/private/kafka/src/main/java/com/seitwerk/kafka/bean/KafkaBean.java
+/home/andreas/projects/private/kafka/src/main/java/com/seitwerk/kafka/config/KafkaListenerConfiguration.java
+/home/andreas/projects/private/kafka/src/main/java/com/seitwerk/kafka/config/KafkaConfiguration.java
+/home/andreas/projects/private/kafka/src/main/java/com/seitwerk/kafka/core/annotation/KafkaListener.java
+/home/andreas/projects/private/kafka/src/main/java/com/seitwerk/kafka/entity/User.java
+/home/andreas/projects/private/kafka/src/main/java/com/seitwerk/kafka/service/KafkaConsumerService.java
+/home/andreas/projects/private/kafka/src/main/java/com/seitwerk/kafka/MainApplication.java
+/home/andreas/projects/private/kafka/src/main/java/com/seitwerk/kafka/controller/GraphQLController.java
